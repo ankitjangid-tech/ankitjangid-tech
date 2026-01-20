@@ -52,4 +52,4 @@ I aim to become a skilled **Software Developer**, continuously learning new tech
 
 - **Email:** ankitjangid2025@gmail.com  
 - **Location:** Jaipur, Rajasthan, India  
-- **Portfolio / Project:** https://proshop-modern-e-commerce.netlify.app/
+
