@@ -34,11 +34,6 @@ Currently, I am pursuing my **Master of Computer Applications (MCA)** from **Raj
 
 ---
 
-### 🎯 Career Objective
-
-I aim to become a skilled **Software Developer**, continuously learning new technologies and building impactful applications. I am particularly interested in **backend development, problem-solving, and full-stack projects**.
-
----
 
 ### 📜 Certifications
 
@@ -51,5 +46,5 @@ I aim to become a skilled **Software Developer**, continuously learning new tech
 ### 📫 Connect with Me
 
 - **Email:** ankitjangid2025@gmail.com  
-- **Location:** Jaipur, Rajasthan, India  
+- **Location:** Jaipur, Rajasthan, 302033
 
