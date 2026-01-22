@@ -1,6 +1,6 @@
 # Hi there, I'm Ankit Jangid! 👋
 
-### 🎓 MCA Student | Aspiring Software Developer | Tech Enthusiast
+### 🎓 MCA Student | Aspiring Data Analyst | Tech Enthusiast
 
 I am a Computer Applications student based in **Jaipur, Rajasthan**, with a strong academic background and a growing passion for software development and problem-solving.
 
@@ -31,6 +31,8 @@ Currently, I am pursuing my **Master of Computer Applications (MCA)** from **Raj
 - Python-based console application to manage student records
 - Implemented **Object-Oriented Programming (OOP)** concepts
 - Designed for academic learning and practical understanding of software structure
+- 🔗 GitHub Repository: [Student Management System](https://github.com/ankitjangid-tech/Student_Management_System.git)
+
 
 ---
 
