@@ -10,8 +10,7 @@ Currently, I am pursuing my **Master of Computer Applications (MCA)** from **Raj
 
 ### 🛠️ Tech Stack & Skills
 
-- **Programming Languages:** C, C++, Python, Java, Data Structures & Algorithms (DSA), SQL  
-- **Web Technologies:** HTML, CSS, JavaScript  
+- **Programming Languages:** C, C++, Python, Java, Data Structures & Algorithms (DSA), SQL    
 - **Databases:** MySQL  
 - **Tools & IDEs:** Visual Studio Code, Eclipse  
 - **Office Tools:** MS Word, MS Excel, MS PowerPoint  
